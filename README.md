@@ -1,0 +1,1 @@
+It is Movies Data where we get insight and we laern how to use python to get details. We have data in CSV and we import the file using python and we get all details regarding movies who is the best Actor and Actress.Top 10 Movies and Top 10 Director etc.
